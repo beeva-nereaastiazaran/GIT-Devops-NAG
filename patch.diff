@@ -1,0 +1,12 @@
+diff --git a/ficherito.md b/ficherito.md
+new file mode 100644
+index 0000000..71249d0
+--- /dev/null
++++ b/ficherito.md
+@@ -0,0 +1,6 @@
++# Nuevo ficherito
++## Tags
++- Etiqueta 1.0
++- Etiqueta 1.1
++- Etiqueta 1.2
++- Etiqueta 1.3
