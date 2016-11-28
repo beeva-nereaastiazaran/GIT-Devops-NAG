@@ -1,3 +1,3 @@
 # Léeme
 ## Rama:
-### Preproduccion, Nerea Astiazaran
+### Desarrollo, Nerea Astiazaran
